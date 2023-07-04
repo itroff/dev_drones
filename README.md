@@ -1,7 +1,7 @@
 ## Drones
 
 ### info 
-Service wrote with Java 17, h2 in memory db, Spring Boot,  Spring JPA
+Service wrote with Java 11, h2 in memory db, Spring Boot,  Spring JPA
 
 ### Build and run
 ```docker build -t dev_drones .```
