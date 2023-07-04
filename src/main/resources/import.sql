@@ -1,0 +1,13 @@
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('123','Lightweight', 100, 100, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('10', 'Middleweight', 200, 24, 'IDLE'); 
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('1', 'Cruiserweight', 300, 1, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('2','Lightweight', 100, 100, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('3', 'Middleweight', 200, 100, 'IDLE'); 
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('4', 'Cruiserweight', 300, 100, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('abc223','Lightweight', 500, 100, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('asdfc', 'Middleweight', 400, 100, 'IDLE'); 
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('134321', 'Heavyweight', 500, 100, 'IDLE');
+INSERT INTO drones (serial_number, model, weight_limit, battery_capacity, state) VALUES ('asdsad', 'Heavyweight', 500, 100, 'IDLE');
+INSERT INTO medication (name, weight, code, image) VALUES ('asparagus', 1, 'ABC', 'https://www.allrecipes.com/recipe/214931/oven-roasted-asparagus/');
+INSERT INTO medication (name, weight, code, image) VALUES ('banana', 100 , 'BNN', 'https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcR8z0k3sgTdkuu1EGX-YghXDSj_Ow0mO87pnKao3sthY1SQ2Mw_oIIqiB2sGEKWUyQM');
+INSERT INTO medication (name, weight, code, image) VALUES ('coconut', 600, 'CCN', 'https://draxe.com/wp-content/uploads/2022/12/DrAxeEatingCoconutsHeader.jpg');
